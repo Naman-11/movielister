@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/movielister/static/css/main.dfa56acd.chunk.css",
+    "main.js": "/movielister/static/js/main.0af1c070.chunk.js",
+    "main.js.map": "/movielister/static/js/main.0af1c070.chunk.js.map",
+    "runtime-main.js": "/movielister/static/js/runtime-main.28538d1b.js",
+    "runtime-main.js.map": "/movielister/static/js/runtime-main.28538d1b.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/movielister/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.34d2c99d.chunk.js": "/movielister/static/js/2.34d2c99d.chunk.js",
+    "static/js/2.34d2c99d.chunk.js.map": "/movielister/static/js/2.34d2c99d.chunk.js.map",
+    "index.html": "/movielister/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/movielister/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.dfa56acd.chunk.css.map": "/movielister/static/css/main.dfa56acd.chunk.css.map",
+    "static/js/2.34d2c99d.chunk.js.LICENSE.txt": "/movielister/static/js/2.34d2c99d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28538d1b.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.34d2c99d.chunk.js",
+    "static/css/main.dfa56acd.chunk.css",
+    "static/js/main.0af1c070.chunk.js"
+  ]
+}
